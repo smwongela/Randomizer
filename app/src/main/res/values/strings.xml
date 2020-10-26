@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Chama</string>
+    <string name="set_your_profile">Set Your Profile</string>
+    <string name="one">1 </string>
+    <string name="two">2 </string>
+    <string name="three">3 </string>
+    <string name="four">4 </string>
+    <string name="five">5 </string>
+    <string name="six">6 </string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9 </string>
+    <string name="ten">10</string>
+    <string name="eleven">11 </string>
+    <string name="twelve">12 </string>
+    <string name="thirteen">13 </string>
+    <string name="fourteen">14 </string>
+    <string name="fifteen">15 </string>
+    <string name="sixteen">16</string>
+    <string name="seventeen">17</string>
+    <string name="eighteen">18</string>
+    <string name="nineteen">19 </string>
+    <string name="twenty">20 </string>
+    <string name="instructions">Instructions</string>
+    <string name="add">Add</string>
+    <string name="logout">Logout</string>
+    <string name="how_it_works">How it Works</string>
+    <string name="works">This app is primarily for selecting Merry-go round number.  Basically this is how it works:</string>
+    <string name="floating">A user clicks the floating button with the wheel icon, which opens a screen where a user can generate a random number between 1-100 by spinning the wheel. The generated number (Spin Score) will be used to compute the merry go round number.</string>
+    <string name="merry_number">The merry go round number is computed by comparing all the spin scores of the chama members and as such the merry number will be displayed after all members have generated a SPIN SCORE</string>
+    <string name="enrollments">It is important that members spin the wheel ONLY ONCE, or in accordance to the number of Merry Go Round Enrollments</string>
+    <string name="by">App developed by Stanslaus Mwongela 2020</string>
+
+
+</resources>

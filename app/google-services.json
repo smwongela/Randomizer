@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "185782471418",
+    "firebase_url": "https://chama-e1c6e.firebaseio.com",
+    "project_id": "chama-e1c6e",
+    "storage_bucket": "chama-e1c6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185782471418:android:30ca3a5a1c85771c981743",
+        "android_client_info": {
+          "package_name": "com.mwongela.randomizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185782471418-1vpqcbu1l58s02sded2jinm063brr21j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mwongela.randomizer",
+            "certificate_hash": "64c400268c792e40675c169ab6da3377806ba724"
+          }
+        },
+        {
+          "client_id": "185782471418-88pqq7t8p5d63b4cegl7ke2tlt2ouog0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOe7TDunJgTlUAfQ13UguGwPhpa_pPuDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185782471418-88pqq7t8p5d63b4cegl7ke2tlt2ouog0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
